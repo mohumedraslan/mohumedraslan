@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <h3 align="center">
-I'm Mohamed Shokry Raslan 🚀 <br/>
+I'm Mohamed Raslan 🚀 <br/>
 Cloud & AI Engineer | Generative AI Enthusiast
 </h3>
 
