@@ -49,9 +49,9 @@ Cloud & AI Engineer | Generative AI Enthusiast
 <div align="center">
   <img src="https://img.shields.io/github/followers/mohumedraslan?label=Followers&style=for-the-badge" height="28" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/mohumedraslan?label=Stars&style=for-the-badge" height="28" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/repos/mohumedraslan?label=Repositories&style=for-the-badge" height="28" alt="GitHub Repos" />
-  <img src="https://img.shields.io/github/issues/mohumedraslan?label=Issues&style=for-the-badge" height="28" alt="GitHub Issues" />
+  <img src="https://img.shields.io/github/user/repo-count/mohumedraslan?style=for-the-badge" height="28" alt="GitHub Repos" />
 </div>
+
 
 
 
