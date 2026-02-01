@@ -2,7 +2,7 @@
 
 <h3 align="center">
 I'm Mohamed Raslan 🚀 <br/>
-Cloud & AI Engineer | Generative AI Enthusiast
+Cloud & AI Engineer 
 </h3>
 
 ### 🎓 About Me
