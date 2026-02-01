@@ -11,22 +11,22 @@ Cloud & AI Engineer | Generative AI Enthusiast
 
 <div align="center">
   <!-- AI & Programming -->
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="ai logo" />
+  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="ai" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch" />
   <img width="12" />
   <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="gcp logo" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="gcp" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker" />
 </div>
 
 ---
@@ -37,27 +37,22 @@ Cloud & AI Engineer | Generative AI Enthusiast
   <a href="https://www.linkedin.com/in/mohumed-raslan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/mohumedraslan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="GitHub" />
+  </a>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Live Shields)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohumedraslan&theme=dracula" height="150" alt="github streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mohumedraslan&theme=dracula&row=1&column=6" height="150" alt="trophy graph" />
+  <img src="https://img.shields.io/github/followers/mohumedraslan?label=Followers&style=for-the-badge" height="28" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/mohumedraslan?label=Stars&style=for-the-badge" height="28" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/repos/mohumedraslan?label=Repositories&style=for-the-badge" height="28" alt="GitHub Repos" />
+  <img src="https://img.shields.io/github/issues/mohumedraslan?label=Issues&style=for-the-badge" height="28" alt="GitHub Issues" />
 </div>
 
----
 
-### 🟩 Pacman Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohumedraslan/mohumedraslan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohumedraslan/mohumedraslan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohumedraslan/mohumedraslan/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-⭐ If you like my work, feel free to star my repositories and follow me!
+⭐ If you like my work, feel free to **star my repositories** and **follow me**!
