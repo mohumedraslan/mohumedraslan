@@ -49,8 +49,19 @@ Cloud & AI Engineer | Generative AI Enthusiast
 <div align="center">
   <img src="https://img.shields.io/github/followers/mohumedraslan?label=Followers&style=for-the-badge" height="28" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/mohumedraslan?label=Stars&style=for-the-badge" height="28" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/user/repo-count/mohumedraslan?style=for-the-badge" height="28" alt="GitHub Repos" />
 </div>
+
+### 🎓 About Me
+
+I am a **Cloud & AI Engineer** and **Artificial Intelligence undergraduate** with hands-on experience in **Generative AI, Machine Learning, and Cloud Computing**.  
+
+Trained through **ITI, NTI, Huawei, and NVIDIA DLI programs**, with strong exposure to:
+
+- Large Language Models (LLMs) & RAG pipelines  
+- Cloud-native architectures & DevOps  
+- AI deployment and enterprise solutions  
+
+I enjoy building **scalable AI solutions** and experimenting with **cutting-edge technologies** to solve real-world problems.
 
 
 
